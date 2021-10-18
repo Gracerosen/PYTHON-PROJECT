@@ -2,6 +2,8 @@
 PYTHON PROJECT
 
 
+https://realpython.com/python-main-function/
+
 https://awesomeopensource.com/projects/javascript/python
 
 https://awesomeopensource.com/projects/python
@@ -13,3 +15,10 @@ https://awesomeopensource.com/project/TheAlgorithms/Python
 
 
 https://awesomeopensource.com/projects/python-api
+
+
+https://www.educative.io/blog/what-is-functional-programming-python-js-java
+
+https://www.freecodecamp.org/news/python-example/
+
+https://docs.python-guide.org/writing/structure/
